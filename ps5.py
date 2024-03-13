@@ -1,4 +1,3 @@
-"""Problem Set 5: Object Tracking and Pedestrian Detection"""
 
 import cv2
 import numpy as np
